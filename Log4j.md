@@ -24,4 +24,4 @@ Extracting the Base64 string and plugging it into CyberChef reveals the maliciou
 Plugging the IP into VirusTotal shows 14 hits for malicious activity.  
 Comments under the `Community` tab verify the Log4j/Log4jShell/Log4Shell exploit.
 
-<img width="1714" height="552" alt="5-cyberchef" src="https://github.com/user-attachments/assets/2599dd95-ce01-4d5c-95c7-4598842945b7" />
+<img width="1714" height="748" alt="6-VT" src="https://github.com/user-attachments/assets/9c937fd1-65c4-492f-9db2-707e20b686b5" />
